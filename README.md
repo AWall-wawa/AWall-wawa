@@ -1,4 +1,4 @@
-## Greeting
+## Greetings
 
 This is my Github profile.
 Looking around, lurking around.
