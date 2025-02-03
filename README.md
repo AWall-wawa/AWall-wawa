@@ -1,4 +1,9 @@
-## Hi there 👋
+## Greeting
+
+This is my Github profile.
+Looking around, lurking around.
+Mostly readonly.
+
 
 <!--
 **AWall-wawa/AWall-wawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
